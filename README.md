@@ -134,6 +134,25 @@
 
 ## 📸 대표 화면
 
+### Only24 — 매일 단 한 명, 24시간의 대화
+
+> 사진 한 장으로 **취향이 닿는 상대**를 찾고, 딱 **24시간** 동안만 대화합니다.
+> 시간이 끝나면 대화는 사라지고, 더 이어가고 싶을 때만 **친구 요청**으로 관계를 남깁니다.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_1.png" width="140" alt="only24 1" /> <img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_2.png" width="140" alt="only24 2" /> <img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_3.png" width="140" alt="only24 3" /> <img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_4.png" width="140" alt="only24 4" />
+
+<sub>사진으로 시작 · 취향 기반 매칭 · 24시간 타이머 대화 · AI 대화 추천</sub>
+
+**이어진 관계 — 친구가 되면 D-day가 붙고, 기간이 끝나면 대화는 정리됩니다**
+
+<img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_5.png" width="150" alt="only24 friend 1" /> <img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_6.png" width="150" alt="only24 friend 2" /> <img src="https://raw.githubusercontent.com/KamaTAEWOO/portfolio/main/assets/screens/only24_7.png" width="150" alt="only24 friend 3" />
+
+<sub>피드 · 친구 목록(D-day) · 친구와의 대화</sub>
+
+</div>
+
 ### 안부톡 — 떨어져 사는 부모님 복약을 자녀가 챙기는 효도 알림
 
 > 자녀가 약과 시간을 등록하면 부모님 휴대폰에 제때 알림. **가족 코드 한 번**으로 연결됩니다.
