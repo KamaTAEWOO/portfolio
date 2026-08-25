@@ -9,9 +9,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=640&height=45&lines=%EC%84%BC%EC%8A%A4%EC%9E%88%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B9%80%ED%83%9C%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4;5%EB%85%84%EC%B0%A8%20Android%20%C2%B7%20%EC%95%B1%2012%EC%A2%85%20%EC%8A%A4%ED%86%A0%EC%96%B4%20%EC%B6%9C%EC%8B%9C;Kotlin+%2B+Compose+%2B+Flutter;%EA%B7%B8%EB%83%A5%20%ED%95%B4%EB%9D%BC..." alt="typing" />
 
 <p>
-<b>낮에는</b> 원격지원 솔루션을 만드는 <b>5년차 Android 개발자</b>로 일하고,<br />
-<b>밤에는</b> <b>12개의 앱</b>을 스토어와 웹에 출시하며 꾸준히 만듭니다.
+원격지원 솔루션과 의료 장비 앱을 만들어 온 <b>5년차 Android 개발자</b>입니다.<br />
+회사 일과 별개로 직접 기획해 <b>12개의 앱</b>을 스토어와 웹에 출시했습니다.
 </p>
+
+<a href="mailto:wkdwkd585@gmail.com"><img src="https://img.shields.io/badge/%EA%B5%AC%EC%A7%81%EC%A4%91-%ED%95%A8%EA%BB%98%20%EB%A7%8C%EB%93%A4%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%80%EC%9D%84%20%EC%B0%BE%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-3DDC84?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white" alt="open to work" /></a>
+
+<br />
 
 <a href="https://kamataewoo.web.app"><img src="https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-kamataewoo.web.app-8B5CF6?style=for-the-badge&labelColor=1a1b27&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
 <a href="https://www.linkedin.com/in/kamataewoo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -186,7 +190,9 @@
 
 ## 💼 걸어온 길
 
-**알서포트** · Android 개발자 &nbsp;`2024.10 ~ 현재`
+> 🔎 **현재 새로운 팀을 찾고 있습니다.** Android · Kotlin · Flutter 포지션에 관심이 있습니다 — [wkdwkd585@gmail.com](mailto:wkdwkd585@gmail.com)
+
+**알서포트** · Android 개발자 &nbsp;`2024.10 ~ 2026.06`
 - **RemoteCall** 원격지원 솔루션의 모바일 플랫폼 개발·유지보수 (Java)
 - 다양한 고객사와 직접 커뮤니케이션하며 커스텀 원격앱 **개발 → 출시 → 운영 전 주기** 담당
 
